@@ -1,0 +1,3 @@
+rootProject.name = "SwipeToRefreshMadeEasy"
+include ':app'
+include ':lib'
